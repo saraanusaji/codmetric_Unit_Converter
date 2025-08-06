@@ -39,6 +39,7 @@ This is a **command-line based unit converter** developed during my Python Inter
 ```bash
 git clone https://github.com/saraanusaji/codmetric_Unit-Converter.git
 cd codmetric_Unit-Converter
+```
 
 2. Make sure Python 3.x is installed.
 
@@ -46,12 +47,15 @@ cd codmetric_Unit-Converter
 
 ```bash
 python unit_converter.py
+```
 
 4. Follow the on-screen menu to perform conversions.
 
-📬 Contact
-Feel free to connect with me:
+---
+### 📬 Contact
 
-🔗 [LinkedIn](www.linkedin.com/in/sara-anu-saji)
+Feel free to reach out or connect with me:
 
-📧 saraanusaji616@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sara-anu-saji-544119325/)  
+- 📧 saraanusaji616@gmail.com
+
